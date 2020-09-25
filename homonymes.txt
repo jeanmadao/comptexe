@@ -1,0 +1,346 @@
+(des)baux/beau/bot
+(dé)celer/(de)sceller/(des)seller(q.-h.)
+(en)perce/perse/[formes verbales de percer]
+(par monts et par)vaux/veau/vos/[formes verbales de valoir]
+(peu ou)prou/proue
+(à l’)envi/envie
+Occident/oxydant
+acquis/acquit
+aile/elle/[formes verbales de héler]
+aine/haine
+air/aire/ère/erre/erres/hère/[formes verbales de errer]
+allaitement/halètement
+aller/haler/hâler(q.-h.)
+allogène/halogène
+allô/halo
+amande/amende
+amen/amène/[formes verbales de amener]
+anal/annal/annales
+anche/hanche
+ancre/encre/[formes verbales de ancrer]/[formes verbales de encrer]
+anse/hanse
+antre/entre
+août/houe/houx/ou/où
+apprêts/après
+are/arrhes/art
+arôme/arum(q.-h.)
+athée/hâter(q.-h.)
+atèle/attelle/[formes verbales de atteler](q.-h.)
+au(l)ne/aune
+au/(des)aulx/eau/haut/ho/ô/oh/(des)os
+auspice(s)/hospice
+autel/hôtel
+auteur/hauteur
+avant/avent
+bai/baie/bée/bey(q.-h.)
+bailler/bâiller/bayer(aux corneilles)
+bal/balle
+balade/ballade
+balai/ballet
+ban/banc
+bar/barre/[formes verbales de barrer]
+barbu/barbue
+bas/bât/[formes verbales de battre]
+basilic/basilique
+bon/bond
+bord/bore
+bouchée/boucher
+boue/bout/[formes verbales de bouillir]
+bouleau/boulot
+bourg/bourre/[formes verbales de bourrer]
+brie/bris
+brocher/brochet(q.-h.)
+brut/brute
+but/butte
+bête/bette
+cacher/cachet(q.-h.)
+cadran/quadrant
+cahier/cailler
+cahot(cahotant,cahoteux)/chaos(chaotique)
+cal/cale/[formes verbales de caler]
+camp/quand/quant
+canaux/canot
+cane/canne
+cantique/quantique
+cap/cape
+capital/capitale
+car/quart
+ceint/cinq/sain/saint/sein/seing
+celle/sel/selle/[formes verbales de celer]/[formes verbales de sceller]/[formes verbales de seller]
+cellier/sellier
+cens/sens
+censé/sensé
+cent/sang/sans/[formes verbales de sentir]
+cep/cèpe/sep
+cerf/serf/serre/[formes verbales de serrer]/[formes verbales de servir]
+cession/session
+cet/cette/set/sept
+chair/chaire/cher/chère
+champ/chant
+chas/chat
+chasse/châsse(q.-h.)
+chaud/chaut[verbe chaloir]/chaux
+chaîne/chêne
+chlore/clore
+chœur/cœur
+ci/scie/si/sis/sixcire/sire/[formes verbales de cirer]
+cité/citer
+clair/clerc
+clé(clef)/claie(q.-h.)
+coi/quoi
+coing/coin
+coke/coq/coque
+col/colle/[formes verbales de coller]
+colon/côlon(q.-h.)
+compte/comte/conte/[formes verbales de compter]/[formes verbales de conter]
+compteur/conteur
+cor/corps
+cote/côte/cotte/quote(-part)/[formes verbales de coter](q.-h.)
+cou/coup/coût/[formes verbales de coudre]
+cour/(chasse à)courre/cours/court/[formes verbales de courir]
+craie/crêt
+cric/crique
+cru/crue/[formes verbales de croire]/[formes verbales de croître]
+cuir/cuire
+curie/curry
+curé/curée/curer
+cygne/signe/[formes verbales de signer]
+cène/saine/scène/senne(seine)
+céans/séant/seyant(q.-h.)
+dans/dent
+danse/dense/[formes verbales de danser]
+date/datte/[formes verbales de dater]
+dessein/dessin
+différend/différent
+do/dos
+don/dont
+durée/durer
+débraillé(se débrailler)/débrayer
+décente/descente(q.-h.)
+déférer/déferrer(q.-h.)
+dégoûter/dégoutter
+délacer/délasser
+détoner/détonner
+enter/hanter
+eux/œufs
+exaucer/exhausser
+fa/fat
+faim/feint/fin/[formes verbales de feindre]
+faire/fer/[formes verbales de ferrer]
+far/fard/fart/phare
+fausse/fosse
+faîte/fête/[formes verbales de faire]/[formes verbales de fêter]
+fil/file/[formes verbales de filer]
+filtre/philtre
+final/finale
+flamand/flamant
+flambée/flamber
+flan/flanc
+foi/foie/fois
+fond/fonds/fonts/[formes verbales de faire]/[formes verbales de fondre]
+for/fors/fort/[formes verbales de forer]
+foulée/fouler
+frai/frais/fret
+fumée/fumer
+fusée/fuser
+gai/guet
+gang/gangue
+gaz/gaze/[formes verbales de gazer]
+geai/jais/jet
+gens/gent
+glaciaire/glacière
+golf/golfe
+goûter/goutter
+grâce/grasse
+guère/guerre
+gène/gêne/[formes verbales de gêner]
+haillon/hayon
+hausse/(un)os/[formes verbales de hausser](q.-h.)
+haute/hôte/hotte/[formes verbales de ôter](q.-h.)
+heur/heure/heurt
+hors/or/(d’)ores(et déjà)
+huis/huit
+hutte/ut/[formes verbales de avoir]
+hyène/yen
+hâle/halle/[formes verbales de hâler](q.-h.)
+héraut/héros
+il/île
+intercession/intersession
+jarre/jars
+joue/joug/[formes verbales de jouer]
+juré/jurer
+la/là/las
+lac/laque/[formes verbales de laquer]
+lacer/lasser
+lai/laid/laie/lait/les/legs
+lest/leste/[formes verbales de lester]
+leur/leurre/[formes verbales de leurrer]
+levée/lever
+li/lie/lit/[formes verbales de lier]/[formes verbales de lire]
+lice/lis(lys)/lisse
+lieu/lieue
+lire/lyre
+lisser/lycée
+livrée/livrer
+luth/lutte/[formes verbales de lutter]
+ma/mas/mât
+mai/mais/mes/mets/[formes verbales de mettre]
+mail/maille/[formes verbales de mailler]
+main/maint
+maire/mer/mère
+mal/mâle/malle(q.-h.)
+mante/menthe/[formes verbales de mentir]
+mare/marc
+mari/marri
+marocain/maroquin
+martyr/martyre
+mater/mâter(q.-h.)
+maure(more)/mort/mors
+maux(pluriel de mal)/mot
+maître/mètre/mettre
+mi/mie/[formes verbales de mettre]
+mille/mil
+mite/mythe
+moi/mois
+mol(le)/môle(q.-h.)
+mon/mont
+mou/moue/moût/[formes verbales de moudre]
+mur/mûr/mûre
+musée/muser
+nez/[formes verbales de naître]
+ni/nid/[formes verbales de nier]
+nichée/nicher
+nom/non
+nu/nue(s)
+ouate/watt
+oui/ouïes/[formes verbales de ouïr]
+paie/paix/pet
+pain/pin/[formes verbales de peindre]
+pair/paire/père/pers/[formes verbales de perdre]
+pal/pale/pâle(q.-h.)
+palais/palet
+palier/pallier
+pan/paon/[formes verbales de pendre]
+panser/pensée/penser
+par/part/[formes verbales de parer]/[formes verbales de partir]
+parti/partie/[formes verbales de partir]
+passé/passer
+pat/pâte/patte(q.-h.)
+paume/pomme(q.-h.)
+pause/pose
+pavé/paver
+peau/pot
+peine/pêne/penne/[formes verbales de peiner](q.-h.)
+percée/percer
+perçant/persan
+pesée/peser
+pic/pique/[formes verbales de piquer]
+pie/pis
+pieu/pieux
+pinçon/pinson/[formes verbales de pincer]
+piqué/piquer
+piton/python
+plain/plein/[formes verbales de plaindre]
+plaine/pleine
+plainte/plinthe
+plan/plant
+plastic/plastique
+pli/plie/[formes verbales de plier]
+poids/pois/poix
+poing/point
+porc/pore/port
+portée/porter
+pou/pouls
+pouce/pousse/[formes verbales de pousser]
+poussée/pousser
+poêle/poil
+près/prêt
+puis/puits/puy
+pâté/pâtée
+péché/pécher/pêcher(q.-h.)
+queue/queux
+ra/ras/rat/raz
+racket/raquette
+rai/raie/rets
+raisonner/résonner(q.-h.)
+ramée/ramer
+rauque/roc/roque(q.-h.)
+recru/recrue
+reine/rêne/renne(q.-h.)
+repaire(repairer)/repère(repérer)
+ris/riz/[formes verbales de rire]
+roder/rôder
+roman/romand
+rosé/rosée
+roue/roux/[formes verbales de rouer]
+ru/rue
+ré/rez(-de-chaussée)/[formes verbales de rayer]
+sale/salle/[formes verbales de saler]
+saoul(soûl)/sou/soue/sous
+satire/satyre
+saule/sol/sole(q.-h.)
+saur/sort/[formes verbales de sortir]
+saut/sceau/seau/sot
+saute/sotte/[formes verbales de sauter](q.-h.)
+scellés/sceller/seller
+sceptique/septique
+seoir/soir
+serein/serin
+serment/serrement
+soi/soie/soit/[formes verbales de être]
+son/[formes verbales de être]
+soufflé/souffler
+spore/sport
+statue/statut/[formes verbales de statuer]
+sur/sûr
+sèche/seiche/[formes verbales de sécher]
+s’égailler/(s’)égayer
+ta/tas
+tache/tâche/[formes verbales de tacher](q.-h.)/[formes verbales de tâcher](q.-h.)
+taie/tes
+tain/teint/thym/tin/[formes verbales de teindre]/[formes verbales de tenir]
+taire/ter/terre/[formes verbales de terrer]
+tan/tant/taon/temps/[formes verbales de tendre]
+tapi/tapis
+tard/tare/[formes verbales de tarer]
+taux/tôt
+teinter/tinter
+terme/thermes
+thon/ton/[formes verbales de tondre]
+tic/tique/[formes verbales de tiquer]
+tir/(vol à la)tire/[formes verbales de tirer]
+tirant/tyran
+toc/toque/[formes verbales de se toquer]
+toi/toit
+tome/tomme
+tors/tort/[formes verbales de tordre]
+tournée/tourner
+tous/tout/toux
+trac/traque/[formes verbales de traquer]
+trait/très/[formes verbales de traire]
+traité/traiter
+tranchée/trancher
+tribu/tribut
+trop/trot
+trouée/trouer
+té/thé
+vain/vin/vingt/[formes verbales de vaincre]/[formes verbales de venir]
+vaine/veine
+vair/ver/verre/vers/vert
+van/vent/[formes verbales de vendre]
+vanter/venter
+verni/vernis
+vice/vis/[formes verbales de visser]/[formes verbales de voir]
+vil/ville
+visée/viser
+voie/voix/[formes verbales de voir]
+voir/voire
+volatil/volatile
+volée/voler
+vôtre/[formes verbales de se vautrer]
+échappée/échapper
+écho/écot
+équipée/équiper
+étai/[formes verbales de étayer]/[formes verbales de être]
+éthique/étique
+être/hêtre

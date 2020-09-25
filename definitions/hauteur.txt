@@ -1,0 +1,20 @@
+*Dimension de quelque chose de sa base à son sommet: La hauteur du mât est de sept mètres.
+*Élévation d'un corps au-dessus d'un plan de comparaison: L'avion avait atteint la hauteur de 3 000 mètres.
+*Qualité de ce qui est haut, élevé, de grande dimension: La hauteur impressionnante de ces montagnes.
+*Terrain ou lieu élevé: Il y a de la neige sur les hauteurs.
+*Qualité de ce qui est élevé, éminent dans l'ordre moral, intellectuel: Hauteur de vues.
+*Sentiment de supériorité condescendante: Un refus plein de hauteur.
+*AcoustiqueCaractère de la sensation auditive liée à la fréquence d'un son périodique, qui fait dire que le son est aigu ou grave selon que cette fréquence est plus ou moins élevée. (En phonétique, les variations de hauteur assument des fonctions distinctives, culminatives et démarcatives dans le cadre du mot [tons, accents] ou de la phrase [intonation].) [On dit aussi hauteur tonale ou tonie en physiologie.] 
+*AstronomieDistance angulaire entre la direction d'un astre (de son centre, s'il présente un diamètre apparent sensible) et le plan horizontal.
+*Mathématiques1.Droite perpendiculaire à la base de certaines figures du plan (triangle) ou de l'espace (pyramide, cône, tétraèdre) et passant par le sommet associé (quand il existe). [Dans un triangle, les trois hauteurs concourent en l'orthocentre.]2.Segment porté par cette droite, compris entre le sommet et la droite (ou le plan) servant à la définir ; longueur de ce segment.3.Droite perpendiculaire aux deux plans parallèles qui limitent un cylindre ou un prisme.4.Droite perpendiculaire aux supports des petite et grande bases d'un trapèze.
+&À la hauteur de, au même niveau d'habileté, de connaissances, au même niveau moral, intellectuel, etc.
+&À (la) hauteur de quelque chose, de quelqu'un, à son niveau dans l'espace, sur une même ligne: Arrivé à ma hauteur, il me salua.
+&À (la) hauteur de tant, à cette valeur, à ce degré: Nous serons remboursés à la hauteur de 5 000 euros.
+&Familier. À la hauteur (d'une tâche, d'une situation, d'un sujet, etc.), qui est capable de s'acquitter d'une tâche, de comprendre une situation ; qui peut y faire face.
+&Prendre, perdre de la hauteur, s'élever, descendre, en parlant d'un avion, d'un oiseau.
+&Tomber de toute sa hauteur, tomber de tout son long par terre.
+&AstronomieHauteur vraie, hauteur d'un astre corrigée de la réfraction (par opposition à la hauteur apparente).
+&BâtimentBâtiment à hauteur, bâtiment dont les murs sont achevés.Hauteur d'appui, hauteur donnée communément aux balustrades, et qui est de 1 m environ.Hauteur sous clef, distance du sommet d'un arc, d'une voûte, au plan horizontal de naissance.
+&MétrologieHauteur barométrique, différence des niveaux d'affleurement du mercure dans la colonne et dans la cuvette d'un baromètre.
+&Navigation intérieureHauteur d'eau, distance séparant le niveau de l'eau du plafond d'un chenal.
+&SportsSaut en hauteur, épreuve d'athlétisme qui consiste à sauter le plus haut possible en franchissant une barre horizontale posée sur des taquets.
